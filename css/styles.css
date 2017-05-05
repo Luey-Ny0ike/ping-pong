@@ -1,0 +1,21 @@
+.header{
+  color: red;
+  height: 200px;
+  background-image: url("random.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: repeat-x;
+
+  text-align: center;
+  font-style: oblique;
+  padding: 30px;
+}
+.left{
+  color: green;
+  background-image: url("haha.jpg");
+  background-position: center;
+  background-size: contain;
+}
+.right{
+  background-color: grey;
+}
