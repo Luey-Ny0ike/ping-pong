@@ -6,4 +6,4 @@
 2. Numbers divisible by 5 are replaced by pong
   - if not divisible same case applies
 3. numbers divisible by both 3 and 5 are replaced by ping-pong
-  - if not same as before
+  - if not divisible, same as before
